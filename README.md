@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ShivPandey5677
-- 👀 I’m interested in blockchain and web3
-- 🌱 I’m currently learning developing smart contract
+  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - twitter-@shiv5677
